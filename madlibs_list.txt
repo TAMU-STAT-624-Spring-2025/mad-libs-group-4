@@ -1,21 +1,21 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
-11. Liquid
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+1. Luo Ji
+2. Invisible
+3. Chaotic
+4. Dark
+5. June 
+6. Four 
+7. Sophons
+8. Doomsday Battleships
+9. Wallfacer
+10. Command Center
+11. Degenerate Matter
+12. Relativistic
+13. Strong Interaction Material
+14. Dimensional Folding
+15. Instantaneously
+16. Three
+17. Epoch
+18. Star Lifting
+19. Irrational
+20. Curvature Drive Ship
+21. Xuan Ma
